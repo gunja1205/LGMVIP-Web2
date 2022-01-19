@@ -1,0 +1,16 @@
+.nav{
+    text-decoration: none;
+    
+}
+.bar .navbar-brand{
+    text-decoration: none;
+    color: white;
+}
+.bar h1{
+    padding-bottom: 40px;
+    padding-top: 50px;
+}
+body{
+    
+    background-color: rgb(240, 11, 152);
+}
